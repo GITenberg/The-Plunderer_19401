@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '8648'
     url: http://www.gutenberg.org/2009/agents/8648
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/19401#The-Plunderer
 gutenberg_issued: '2006-09-28'
 gutenberg_type: Text
 identifiers:
