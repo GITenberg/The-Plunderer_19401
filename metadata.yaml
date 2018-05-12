@@ -1,0 +1,26 @@
+_repo: The-Plunderer_19401
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Oyen, Henry
+    birthdate: 1883
+    deathdate: 1921
+    gutenberg_agent_id: '8648'
+    url: http://www.gutenberg.org/2009/agents/8648
+description: ''
+gutenberg_issued: '2006-09-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '19401'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Florida -- Fiction'
+- !lcc 'PS'
+title: The Plunderer
+url: http://www.gutenberg.org/ebooks/19401
